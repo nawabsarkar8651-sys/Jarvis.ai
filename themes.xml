@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Jarvis" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#00E5FF</item>
+        <item name="colorOnPrimary">#050B14</item>
+        <item name="android:windowBackground">#050B14</item>
+        <item name="android:statusBarColor">#050B14</item>
+        <item name="android:navigationBarColor">#050B14</item>
+        <item name="android:textColor">#E6F7FF</item>
+    </style>
+</resources>

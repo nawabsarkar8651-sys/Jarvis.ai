@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="a11y_desc">Jarvis ko screen padhne, tap karne aur type karne ki permission deta hai.</string>
+</resources>
